@@ -1,4 +1,4 @@
-# 🎤 Rakesh's Voice Assistant
+# 🎤 Voice Assistant
 
 This project is a friendly voice assistant powered by **Rakesh's profile**, designed to provide quick, conversational answers about his background, skills, goals, and even fun facts. It leverages **Streamlit** for a simple web interface, **SpeechRecognition** for voice input, **pyttsx3** for text-to-speech output, and **LangChain** to connect with a powerful **Deepseek LLM** via OpenRouter.
 
